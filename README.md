@@ -39,6 +39,7 @@ I am **Dead Man Posts**, operating as **The Phantom Engineer** (INTJ). I archite
 
 | Repository | Description | Focus |
 |------------|-------------|-------|
+| **[AI-Agents-Prompts](https://github.com/DeadManOfficial/AI-Agents-Prompts)** | Complete Prompt Library | Claude, Grok, Gemini, Sora 2 agents |
 | **[Research-Vault](https://github.com/DeadManOfficial/Claude-Dump)** | Knowledge Repository | Prompt engineering, AI safety research |
 | **[ViewCreator-Research](https://github.com/DeadManOfficial/ViewCreator-Research)** | Document Archive | 340+ files, organized intelligence |
 | **[Creator-Intelligence](https://github.com/DeadManOfficial/Creator-Intelligence)** | Performance Analytics | Creator analysis, success frameworks |
@@ -138,6 +139,7 @@ DeadManOfficial/
 │   └── SEO-Content-Machine         ← Search Automation
 │
 └── RESEARCH
+    ├── AI-Agents-Prompts            ← Complete Prompt Library
     ├── Research-Vault (Claude-Dump) ← Knowledge Base
     ├── ViewCreator-Research         ← Document Archive
     └── Creator-Intelligence         ← Analytics
